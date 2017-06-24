@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Git_Hub_Demo
 {
-    class Program
+    class NewClass
     {
-        static void Main(string[] args)
-        {
-            //Changes on the main branch from vs 2010
-        }
     }
 }
