@@ -8,5 +8,6 @@ namespace Git_Hub_Demo
 {
     class NewClass
     {
+        //Additional 1.1 changes
     }
 }
